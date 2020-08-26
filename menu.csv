@@ -1,0 +1,23 @@
+PICA:
+id,naziv,litara,cijena
+11,Cijedjena pomorandza,0.33,2.21
+12,Cijedjeni grejp,0.32,2.22
+19,Cijedjeni mix,0.33,2.9
+20,Esspreso,0.1,0.9
+27,Kuvana kafa,0.2,0.6
+28,Nes kafa,0.33,1.2
+29,Toceno pivo(malo),0.33,1.6
+30,Toceno pivo(veliko),0.5,2
+31,Flasirano pivo,0.33,2.2
+32,Coca cola,0.33,2.2
+33,Fanta,0.33,2.2
+34,Cedevita,0.33,1.1
+39,VIno (flasa),1,15
+JELA:
+id,naziv,gramaza,cijena
+1,Pizza Margarita,350,3.2
+2,Hamburger + pomfrit,350,2.5
+3,Porcija 5 cevapa + pomfrit,250,2.2
+4,Pizza Margarita,350,3.2
+6,Porcija 5 cevapa + pomfrit2,252,2.22
+13,Slatke palacinke,250,1.8
